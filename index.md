@@ -36,3 +36,10 @@ iOS 相关文章的一些中文翻译。
 
 [Stable/Kernel](http://stablekernel.com/blog/)  
 Best Practices, tips, tricks, reusable code.
+
+
+Apple专区
+iOS Tech Talks
+https://developer.apple.com/tech-talks/
+
+
